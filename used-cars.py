@@ -1,6 +1,7 @@
 import pandas as pd
 import streamlit as st
 import plotly.express as px
+import numpy as np
 
 # Streamlit Page Configuration
 st.set_page_config(page_title="🚗 Used Car Market Analysis", layout="wide")
